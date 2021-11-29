@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	
+	<!-- 2. Alias REG ( Mapper mapping Value Object : BoardVO ) -->
+	<typeAliases>
+		<typeAlias alias="board" type="com.freeflux.biz.board.BoardVO" />
+	</typeAliases>
+
+
+	<!-- 4. SQL Mapper File REG -->
+	<mappers>
+		<mapper resource="mappings/board-mapping.xml" />
+	</mappers>
+
+</configuration>
