@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Main Page</title>
+<title>메인페이지</title>
 </head>
 
 <body align="center">
