@@ -8,7 +8,7 @@
 </head>
 
 <body align="center">
-	<h1>게시판 프로그램</h1>
+	<h1>게시판 test 프로그램</h1>
 	<hr>
 	<div align="center">
 		<a href="login.do">로그인</a>
